@@ -1,4 +1,3 @@
-# python-homework
-# python-homework
-# python-homework
-# python-homework
+# Python programming
+# นางสาวกันยาพร ชัยชนะ 6812732131
+
